@@ -1,0 +1,391 @@
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?pasteId=1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: ca518043-f542-432d-99d4-6b785a53ac64
+  Content-Length: 0
+}
+
+StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[System.Web.Http.HttpError, System.Web.Http, Version=5.2.6.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]], Headers:
+{
+  Content-Type: application/json; charset=utf-8
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?pasteId=1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: aa3c19db-88a9-4a2c-8c95-278b397d0535
+  Content-Length: 0
+}
+
+StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[System.Web.Http.HttpError, System.Web.Http, Version=5.2.6.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]], Headers:
+{
+  Content-Type: application/json; charset=utf-8
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: 8e08e1c6-3dbf-4292-a0c7-c5928a3b54c9
+  Content-Length: 0
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: d1056484-1d32-4181-adec-121d129b6b4a
+  Content-Length: 0
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: 0175f3c8-7f33-4c9e-8647-b9d41c47f468
+  Content-Length: 0
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: da9fce82-8bb8-48a6-9a0a-841bb72d7a43
+  Content-Length: 0
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: e1cb0ba9-2156-40c5-b2a1-11ecb74ac873
+  Content-Length: 0
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: 6b80377b-fec0-41bf-a243-d2b4509ff16b
+  Content-Length: 0
+}
+
+StatusCode: 500, ReasonPhrase: 'Internal Server Error', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[System.Web.Http.HttpError, System.Web.Http, Version=5.2.6.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]], Headers:
+{
+  Content-Type: application/json; charset=utf-8
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: 2dfadd75-c5b6-453f-bc08-d33caf84dbc4
+  Content-Length: 0
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: 9cb03aa4-5743-4058-86c3-e0469b162c29
+  Content-Length: 0
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: 747c332e-9f3e-4249-af17-0f945a590d6f
+  Content-Length: 0
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: 36df7012-2860-44c6-a3ab-bab1053e7e64
+  Content-Length: 0
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Date: 08/08/2018
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: 1ee7504c-fd8b-47c3-bfe7-3a8f2f81856d
+  Content-Length: 0
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=1', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Date: 08/08/2018
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: 0607415b-df7c-4e99-9c42-010261279435
+  Content-Length: 0
+}
+
+StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[DAL.Entities.Paste, DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Headers:
+{
+  AccessDate: 08.08.2018
+  Content-Type: application/json; charset=utf-8
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=PpkU669x', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Date: 08/08/2018
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: bfc6cd17-df36-4120-afb4-732fe8f85cc6
+  Content-Length: 0
+}
+
+StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[DAL.Entities.Paste, DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Headers:
+{
+  AccessDate: 20.07.2018
+  Content-Type: application/json; charset=utf-8
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=PpkU669x', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Date: 08/08/2018
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: 92a1153a-7ec6-4beb-a04d-5feadd40b165
+  Content-Length: 0
+}
+
+StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[DAL.Entities.Paste, DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Headers:
+{
+  AccessDate: 20.07.2018
+  Content-Type: application/json; charset=utf-8
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=PpkU669x', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Date: 08/08/2018
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: 9a58d436-71ff-4fea-9390-e89d7e3771d6
+  Content-Length: 0
+}
+
+StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[DAL.Entities.Paste, DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Headers:
+{
+  AccessDate: 20.07.2018
+  Content-Type: application/json; charset=utf-8
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=PpkU669x', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Date: 08/08/2018
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: e952f0a7-ac13-4649-aa2a-0da3899d85ff
+  Content-Length: 0
+}
+
+StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[DAL.Entities.Paste, DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Headers:
+{
+  AccessDate: 20.07.2018
+  Content-Type: application/json; charset=utf-8
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=PpkU669x', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Date: 08/08/2018
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: 48719496-59d0-4369-9fc2-bb803f8cb72a
+  Content-Length: 0
+}
+
+StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[DAL.Entities.Paste, DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Headers:
+{
+  AccessDate: 20.07.2018 00:00:00
+  Content-Type: application/json; charset=utf-8
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=PpkU669x', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Date: 08/08/2018
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: e4bc3a05-6085-4e80-bc79-565d251af92e
+  Content-Length: 0
+}
+
+StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[DAL.Entities.Paste, DAL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], Headers:
+{
+  AccessDate: 20.07.2018 00:00:00
+  Content-Type: application/json; charset=utf-8
+}
+
+Method: DELETE, RequestUri: 'http://localhost:61417/api/Paste/DeletePaste?identifier=PpkU669x', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Date: 08/08/2018
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: 86e8ad31-23b7-429a-9271-1101511841ab
+  Content-Length: 0
+}
+
+StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: System.Net.Http.ObjectContent`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]], Headers:
+{
+  Content-Type: application/json; charset=utf-8
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=PpkU669x', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: b69a67dc-0a75-4177-9a67-53a0a1f09a62
+  Content-Length: 0
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=PpkU669xjjjjj', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: e85d7ff0-659a-4224-b302-79053a8172fb
+  Content-Length: 0
+}
+
+StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: <null>, Headers:
+{
+}
+
+Method: GET, RequestUri: 'http://localhost:61417/api/Paste/GetPaste?identifier=PpkU669xjjjjj', Version: 1.1, Content: System.Web.Http.WebHost.HttpControllerHandler+LazyStreamContent, Headers:
+{
+  Cache-Control: no-cache
+  Connection: keep-alive
+  Accept: */*
+  Accept-Encoding: gzip
+  Accept-Encoding: deflate
+  Host: localhost:61417
+  User-Agent: PostmanRuntime/7.1.5
+  Postman-Token: 13c6b301-7cf6-45e9-84c6-55002d36b6c7
+  Content-Length: 0
+}
+
+StatusCode: 404, ReasonPhrase: 'Not Found', Version: 1.1, Content: <null>, Headers:
+{
+}
+
